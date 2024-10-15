@@ -599,6 +599,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2024-10-15 22:45:06 +0000",
       "shrubland": "2024-10-14 02:46:31 +0000",
       "redstone_abyss": "2024-10-15 20:22:13 +0000",
       "muddy_river": "2024-10-14 18:48:27 +0000",
@@ -620,6 +621,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2024-10-15 22:45:06 +0000",
       "shrubland": "2024-10-14 02:46:31 +0000",
       "muddy_river": "2024-10-14 18:48:27 +0000",
       "willow_forest": "2024-10-14 17:09:05 +0000",
@@ -2919,6 +2921,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-10-15 22:41:29 +0000",
       "sweet_berries": "2024-10-14 03:14:59 +0000",
       "porkchop": "2024-10-14 03:25:47 +0000",
       "apple": "2024-10-14 02:56:51 +0000",
@@ -10089,9 +10092,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-10-15 22:41:47 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2024-10-15 21:45:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
     },
     "done": true
   },
@@ -10122,6 +10137,12 @@
   "mcda:recipes/base_armors/plate_armor_leggings": {
     "criteria": {
       "has_iron_plate": "2024-10-15 22:19:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
     },
     "done": true
   },
@@ -10173,6 +10194,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/spruce_leaf": {
+    "criteria": {
+      "has_leaves": "2024-10-15 22:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-10-15 20:31:28 +0000"
@@ -10197,6 +10224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-10-15 22:41:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_dark_oak_sign": "2024-10-15 20:10:19 +0000"
@@ -10212,6 +10245,12 @@
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_light_gray_wool": "2024-10-15 21:45:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2024-10-15 22:38:18 +0000"
     },
     "done": true
   },
@@ -10395,6 +10434,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-10-15 22:41:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-10-15 21:45:52 +0000"
@@ -10473,6 +10524,12 @@
     },
     "done": true
   },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2024-10-15 22:42:22 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/reinforced_mail_helmet": {
     "criteria": {
       "has_iron_plate": "2024-10-15 22:19:45 +0000"
@@ -10509,6 +10566,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2024-10-15 22:41:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2024-10-15 20:37:03 +0000"
@@ -10518,6 +10581,12 @@
   "croptopia:recipes/flour": {
     "criteria": {
       "has_grain": "2024-10-15 21:49:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
     },
     "done": true
   },
@@ -10626,6 +10695,18 @@
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2024-10-15 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-10-15 22:41:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-15 22:41:47 +0000"
     },
     "done": true
   },
@@ -10767,6 +10848,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-10-15 22:41:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
     "criteria": {
       "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
@@ -10815,6 +10902,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-10-15 22:17:52 +0000"
@@ -10848,6 +10947,12 @@
   "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
     "criteria": {
       "has_golden_boots": "2024-10-15 20:12:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-10-15 22:41:22 +0000"
     },
     "done": true
   },
@@ -10977,6 +11082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-10-15 22:41:47 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_white": {
     "criteria": {
       "has_dyes/black": "2024-10-15 21:45:52 +0000"
@@ -11043,6 +11154,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2024-10-15 20:40:45 +0000"
@@ -11088,6 +11205,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
     },
     "done": true
   },
@@ -11148,6 +11271,12 @@
   "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
     "criteria": {
       "has_ruby_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/potato": {
+    "criteria": {
+      "has_potato": "2024-10-15 22:41:47 +0000"
     },
     "done": true
   },
@@ -11212,6 +11341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-10-15 22:41:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/bone_meal": {
     "criteria": {
       "has_bone_meal": "2024-10-15 21:45:52 +0000"
@@ -11227,6 +11362,12 @@
   "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2024-10-15 22:39:50 +0000"
     },
     "done": true
   },
@@ -11361,6 +11502,12 @@
       "has_item": "2024-10-15 20:50:40 +0000"
     },
     "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_leaves": "2024-10-15 22:38:44 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
