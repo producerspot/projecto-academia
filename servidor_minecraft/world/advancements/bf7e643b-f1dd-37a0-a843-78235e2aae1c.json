@@ -602,6 +602,7 @@
       "shrubland": "2024-10-14 02:46:31 +0000",
       "redstone_abyss": "2024-10-15 20:22:13 +0000",
       "muddy_river": "2024-10-14 18:48:27 +0000",
+      "ancient_delta": "2024-10-15 20:40:07 +0000",
       "willow_forest": "2024-10-14 17:09:05 +0000",
       "grassy_beach": "2024-10-14 03:15:21 +0000",
       "scorching_caves": "2024-10-14 15:33:52 +0000",
@@ -3294,6 +3295,7 @@
       "minecraft:spider": "2024-10-14 03:35:31 +0000",
       "minecraft:creeper": "2024-10-14 15:22:35 +0000",
       "minecraft:cave_spider": "2024-10-14 17:07:13 +0000",
+      "minecraft:enderman": "2024-10-15 20:50:36 +0000",
       "minecraft:zombie": "2024-10-14 03:09:01 +0000",
       "minecraft:zombie_villager": "2024-10-14 16:27:03 +0000"
     },
@@ -3902,10 +3904,11 @@
   },
   "techreborn:root": {
     "criteria": {
+      "crit_2": "2024-10-15 20:39:39 +0000",
       "crit_1": "2024-10-14 03:20:31 +0000",
       "crit_0": "2024-10-14 15:22:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
@@ -5844,7 +5847,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "scorching_caves": "2024-10-14 15:33:52 +0000"
+      "scorching_caves": "2024-10-14 15:33:52 +0000",
+      "ancient_delta": "2024-10-15 20:40:07 +0000"
     },
     "done": false
   },
@@ -10063,9 +10067,33 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-15 20:40:45 +0000"
     },
     "done": true
   },
@@ -10105,15 +10133,87 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2024-10-15 20:37:03 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_spade": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-15 20:40:45 +0000"
     },
     "done": true
   },
@@ -10129,9 +10229,57 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2024-10-15 20:37:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2024-10-15 20:50:40 +0000"
     },
     "done": true
   },
@@ -10141,9 +10289,69 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_helmet": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_chestplate": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2024-10-15 20:10:19 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
     },
     "done": true
   },
@@ -10171,6 +10379,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2024-10-15 20:37:03 +0000"
@@ -10189,6 +10403,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/peridot_dust": {
+    "criteria": {
+      "has_tag_c_peridot_gems": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
+    "criteria": {
+      "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wither": {
     "criteria": {
       "has_item": "2024-10-15 20:20:12 +0000"
@@ -10198,6 +10424,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-10-15 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2024-10-15 20:50:40 +0000"
     },
     "done": true
   },
@@ -10213,9 +10445,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_bricks": {
     "criteria": {
       "has_nether_brick": "2024-10-15 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
     },
     "done": true
   },
@@ -10237,6 +10499,24 @@
     },
     "done": true
   },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2024-10-15 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-10-15 20:44:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2024-10-15 20:10:19 +0000"
@@ -10255,9 +10535,33 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2024-10-15 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2024-10-15 20:50:40 +0000"
     },
     "done": true
   },
