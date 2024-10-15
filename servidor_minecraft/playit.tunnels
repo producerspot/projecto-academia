@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "best-paxil.gl.joinmc.link",
-          "assigned_srv": "best-paxil.gl.joinmc.link",
+          "assigned_domain": "boards-demonstrated.gl.joinmc.link",
+          "assigned_srv": "boards-demonstrated.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "634023c7-aad7-4a73-9283-5d0c74c51c80",
+          "id": "5da899c1-3c57-48ae-b587-193e956596ae",
           "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 17732,
-          "port_start": 17731,
+          "port_end": 23540,
+          "port_start": 23539,
           "region": "global",
           "static_ip4": "147.185.221.23",
           "tunnel_ip": "2602:fbaf:0:1::17"
         },
         "status": "allocated"
       },
-      "created_at": "2024-10-12T00:17:26.853475Z",
+      "created_at": "2024-10-15T19:10:12.406536Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "bfac30b6-a08d-4386-977e-d6ee113d476f",
+      "id": "678b6cee-c804-4a16-90fe-59a6166245bb",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "0801c240-2c36-4398-90e5-3da724f95fa8",
-          "agent_name": "el promax",
+          "agent_id": "b079bd5e-990a-4269-a4a9-d6c8e68302c5",
+          "agent_name": "from-key-b5e8",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
