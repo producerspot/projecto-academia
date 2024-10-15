@@ -10926,6 +10926,12 @@
     },
     "done": true
   },
+  "things:gleaming_powder": {
+    "criteria": {
+      "gleaming_powder": "2024-10-15 22:52:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2024-10-15 21:49:58 +0000"

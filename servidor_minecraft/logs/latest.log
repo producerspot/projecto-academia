@@ -3338,3 +3338,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:42:22] [Server thread/INFO]: luimarofi1 has made the advancement [Wild Crops]
 [22:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
 [22:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[22:52:37] [Server thread/INFO]: luimarofi1 has made the advancement [Like Diamonds, But Less Shiny]
+[22:53:19] [Server thread/INFO]: Villager class_1646['Azalee'/30282, l='ServerLevel[world]', x=941.30, y=71.75, z=-601.30] died, message: 'Azalee was slain by Zombie'
+[22:53:19] [Server thread/INFO]: Named entity class_1646['Azalee'/30282, l='ServerLevel[world]', x=941.30, y=71.75, z=-601.30] died: Azalee was slain by Zombie
