@@ -11256,6 +11256,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/tungsten_ingot": {
+    "criteria": {
+      "has_tungsten_ore": "2024-10-15 23:13:12 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/full_metal_armor_leggings": {
     "criteria": {
       "has_plate_armor_leggings": "2024-10-15 22:20:56 +0000"
