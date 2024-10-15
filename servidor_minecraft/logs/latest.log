@@ -3319,3 +3319,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [21:38:27] [Server thread/INFO]: luimarofi1 burned to death
 [21:38:28] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of luimarofi1 accepted server config.
+[21:47:33] [Server thread/INFO]: luimarofi1 has made the advancement [World of illusion]
+[21:50:17] [Server thread/INFO]: luimarofi1 has made the advancement [A Seedy Place]
+[21:54:50] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 825.500000, 109.500000, 44.500000]
