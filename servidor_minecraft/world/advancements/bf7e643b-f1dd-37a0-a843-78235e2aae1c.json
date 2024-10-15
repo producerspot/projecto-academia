@@ -10160,6 +10160,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-10-15 21:23:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2024-10-15 20:37:03 +0000"
@@ -10459,6 +10465,12 @@
       "has_tag_minecraft_signs": "2024-10-15 20:10:19 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2024-10-15 21:23:16 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
     "criteria": {
