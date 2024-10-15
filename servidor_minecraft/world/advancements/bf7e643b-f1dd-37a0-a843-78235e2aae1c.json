@@ -600,6 +600,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-10-14 02:46:31 +0000",
+      "redstone_abyss": "2024-10-15 20:22:13 +0000",
       "muddy_river": "2024-10-14 18:48:27 +0000",
       "willow_forest": "2024-10-14 17:09:05 +0000",
       "grassy_beach": "2024-10-14 03:15:21 +0000",
@@ -2919,7 +2920,8 @@
       "porkchop": "2024-10-14 03:25:47 +0000",
       "apple": "2024-10-14 02:56:51 +0000",
       "bread": "2024-10-14 15:10:20 +0000",
-      "rotten_flesh": "2024-10-14 03:23:04 +0000"
+      "rotten_flesh": "2024-10-14 03:23:04 +0000",
+      "golden_carrot": "2024-10-15 20:17:03 +0000"
     },
     "done": false
   },
@@ -3288,6 +3290,7 @@
     "criteria": {
       "minecraft:pillager": "2024-10-14 16:54:15 +0000",
       "minecraft:skeleton": "2024-10-14 03:39:37 +0000",
+      "minecraft:hoglin": "2024-10-15 20:14:49 +0000",
       "minecraft:spider": "2024-10-14 03:35:31 +0000",
       "minecraft:creeper": "2024-10-14 15:22:35 +0000",
       "minecraft:cave_spider": "2024-10-14 17:07:13 +0000",
@@ -10043,7 +10046,8 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "infernal_holt": "2024-10-14 20:46:11 +0000"
+      "infernal_holt": "2024-10-14 20:46:11 +0000",
+      "redstone_abyss": "2024-10-15 20:22:13 +0000"
     },
     "done": false
   },
@@ -10056,6 +10060,144 @@
   "regions_unexplored:recipes/decorations/larch_shrub": {
     "criteria": {
       "has_larch_sapling": "2024-10-14 20:47:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/black_dye_from_dorcel": {
+    "criteria": {
+      "has_dorcel": "2024-10-15 20:14:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_dark_oak_sign": "2024-10-15 20:10:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-10-15 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-10-15 20:10:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2024-10-15 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-10-15 20:23:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2024-10-15 20:12:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_brick_plate": {
+    "criteria": {
+      "has_nether_brick": "2024-10-15 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-10-15 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-10-15 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2024-10-15 20:10:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-10-15 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2024-10-15 20:10:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
     },
     "done": true
   },
