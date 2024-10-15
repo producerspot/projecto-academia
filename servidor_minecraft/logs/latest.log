@@ -3899,3 +3899,27 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:11:13] [Server thread/INFO]: Updating all forceload tickets for 4b6a985b-539b-317a-ab96-57dfbf3de621
 [23:22:19] [Server thread/INFO]: luimarofi1 has made the advancement [Walking Dead]
 [23:31:01] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 825.500000, 109.500000, 44.500000]
+[23:51:54] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 825.500000, 109.500000, 44.500000]
+[23:53:58] [Server thread/WARN]: luimarofi1 was kicked for floating too long!
+[23:53:58] [Server thread/INFO]: luimarofi1 lost connection: Flying is not enabled on this server
+[23:53:58] [Server thread/INFO]: luimarofi1 left the game
+[23:53:58] [Server thread/INFO]: remove player wand
+[23:53:58] [Server thread/INFO]: Updating all forceload tickets for bf7e643b-f1dd-37a0-a843-78235e2aae1c
+[23:54:13] [Server thread/INFO]: [Handshake] Sending channel query
+[23:54:13] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[23:54:13] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[23:54:13] [Server thread/INFO]: luimarofi1[/127.119.232.207:45551] logged in with entity id 42994 at (756.4000522880772, 164.91505410314974, -163.41445076576017)
+[23:54:13] [Server thread/INFO]: Sending server config values to client
+[23:54:14] [Server thread/INFO]: Syncing config to luimarofi1 (bf7e643b-f1dd-37a0-a843-78235e2aae1c)
+[23:54:14] [Server thread/INFO]: Loading config from file...
+[23:54:14] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:54:14] [Server thread/INFO]: luimarofi1 joined the game
+[23:54:14] [Server thread/INFO]: PLAYER_JOIN
+[23:54:14] [Server thread/INFO]: add_player wand
+[23:54:14] [Server thread/INFO]: config sent
+[23:54:14] [Server thread/INFO]: Updating all forceload tickets for bf7e643b-f1dd-37a0-a843-78235e2aae1c
+[23:54:18] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[23:54:18] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: luimarofi1 -> Global
+[23:54:18] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player luimarofi1. Claiming: GRAVE / Robbing: INVENTORY
+[23:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[23:54:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of luimarofi1 accepted server config.
