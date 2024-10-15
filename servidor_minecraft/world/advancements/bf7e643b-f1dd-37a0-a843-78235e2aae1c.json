@@ -10077,6 +10077,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2024-10-15 21:08:14 +0000"
@@ -10113,9 +10119,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/plate_armor_leggings": {
+    "criteria": {
+      "has_iron_plate": "2024-10-15 22:19:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
     },
     "done": true
   },
@@ -10185,6 +10209,18 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/cauldron_armor_leggings": {
+    "criteria": {
+      "has_plate_armor_leggings": "2024-10-15 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-10-15 22:22:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/food/grilled_garlic_from_smoking": {
     "criteria": {
       "has_item": "2024-10-15 21:46:41 +0000"
@@ -10209,6 +10245,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/red_garnet_storage_block": {
+    "criteria": {
+      "has_red_garnet_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_dyes/black": "2024-10-15 20:40:45 +0000"
@@ -10227,15 +10275,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-10-15 22:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/chiseled_bricks": {
+    "criteria": {
+      "has_item": "2024-10-15 22:22:01 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2024-10-15 22:17:52 +0000"
     },
     "done": true
   },
@@ -10287,6 +10359,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-10-15 22:22:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/plate_armor_chestplate": {
+    "criteria": {
+      "has_iron_plate": "2024-10-15 22:19:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
@@ -10314,6 +10398,12 @@
   "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
     "criteria": {
       "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/cauldron_armor_boots": {
+    "criteria": {
+      "has_plate_armor_boots": "2024-10-15 22:19:56 +0000"
     },
     "done": true
   },
@@ -10377,6 +10467,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_plate": "2024-10-15 22:19:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-10-15 20:31:28 +0000"
@@ -10386,6 +10482,18 @@
   "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/full_metal_armor_boots": {
+    "criteria": {
+      "has_plate_armor_boots": "2024-10-15 22:19:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-10-15 22:22:01 +0000"
     },
     "done": true
   },
@@ -10407,6 +10515,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2024-10-15 22:21:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
     "criteria": {
       "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
@@ -10416,6 +10530,12 @@
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
     "criteria": {
       "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_plate": "2024-10-15 22:19:45 +0000"
     },
     "done": true
   },
@@ -10443,11 +10563,23 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_illusioner": "2024-10-15 21:47:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-10-15 22:21:17 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
@@ -10458,6 +10590,12 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-10-15 22:22:01 +0000"
     },
     "done": true
   },
@@ -10473,15 +10611,33 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/full_metal_armor_chestplate": {
+    "criteria": {
+      "has_plate_armor_chestplate": "2024-10-15 22:19:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2024-10-15 20:22:24 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
     "criteria": {
       "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal": {
+    "criteria": {
+      "has_core_specification_item": "2024-10-15 22:19:45 +0000"
     },
     "done": true
   },
@@ -10527,9 +10683,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_bricks_pillar_trim": "2024-10-15 22:22:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-10-15 22:22:01 +0000"
     },
     "done": true
   },
@@ -10557,6 +10725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-10-15 22:22:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2024-10-15 20:10:19 +0000"
@@ -10566,6 +10740,12 @@
   "transmog:recipes/misc/void_fragment": {
     "criteria": {
       "has_item": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-10-15 22:17:52 +0000"
     },
     "done": true
   },
@@ -10611,9 +10791,33 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/mixed_bricks": {
+    "criteria": {
+      "has_item": "2024-10-15 22:22:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2024-10-15 20:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2024-10-15 22:22:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-10-15 22:17:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/cracked_bricks": {
+    "criteria": {
+      "has_item": "2024-10-15 22:22:01 +0000"
     },
     "done": true
   },
@@ -10629,9 +10833,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
     "criteria": {
       "has_golden_boots": "2024-10-15 20:12:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/red_garnet_dust": {
+    "criteria": {
+      "has_tag_c_red_garnet_gems": "2024-10-15 22:17:07 +0000"
     },
     "done": true
   },
@@ -10683,9 +10899,21 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-10-15 22:21:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/peridot_dust": {
     "criteria": {
       "has_tag_c_peridot_gems": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
     },
     "done": true
   },
@@ -10713,6 +10941,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-10-15 22:21:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/plate_armor_helmet": {
+    "criteria": {
+      "has_iron_plate": "2024-10-15 22:19:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
     "criteria": {
       "has_glass": "2024-10-15 21:38:46 +0000"
@@ -10734,6 +10974,12 @@
   "ae2:recipes/misc/network/cables/glass_white": {
     "criteria": {
       "has_dyes/black": "2024-10-15 21:45:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
     },
     "done": true
   },
@@ -10785,9 +11031,27 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/full_metal_armor_helmet": {
+    "criteria": {
+      "has_plate_armor_helmet": "2024-10-15 22:20:30 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-10-15 22:22:01 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal_var": {
+    "criteria": {
+      "has_the_recipe": "2024-10-15 22:19:45 +0000"
     },
     "done": true
   },
@@ -10800,6 +11064,18 @@
   "techreborn:recipes/assembling_machine/light_gray_bed_from_wool": {
     "criteria": {
       "has_light_gray_wool": "2024-10-15 21:45:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/full_metal_armor_leggings": {
+    "criteria": {
+      "has_plate_armor_leggings": "2024-10-15 22:20:56 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/cauldron_armor_helmet": {
+    "criteria": {
+      "has_plate_armor_helmet": "2024-10-15 22:20:30 +0000"
     },
     "done": true
   },
@@ -10863,6 +11139,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2024-10-15 22:17:07 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2024-10-15 20:28:40 +0000"
@@ -10896,6 +11178,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_bricks_corner_trim": "2024-10-15 22:22:01 +0000"
     },
     "done": true
   },
@@ -11002,6 +11290,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/plate_armor_boots": {
+    "criteria": {
+      "has_iron_plate": "2024-10-15 22:19:45 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2024-10-15 20:50:40 +0000"
@@ -11023,6 +11317,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-10-15 21:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-10-15 22:21:17 +0000"
     },
     "done": true
   },
