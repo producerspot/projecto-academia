@@ -10074,6 +10074,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2024-10-15 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-15 21:38:46 +0000"
@@ -10089,6 +10101,12 @@
   "botania:recipes/tools/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2024-10-15 21:08:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-10-15 23:25:51 +0000"
     },
     "done": true
   },
@@ -10125,6 +10143,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
     },
     "done": true
   },
@@ -10374,6 +10398,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2024-10-15 23:25:51 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2024-10-15 21:23:16 +0000"
@@ -10461,6 +10491,12 @@
   "techreborn:recipes/crafting_table/machine/compressor": {
     "criteria": {
       "has_basic_machine_frame": "2024-10-15 22:39:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2024-10-15 23:25:51 +0000"
     },
     "done": true
   },
@@ -10764,6 +10800,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-10-15 23:25:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-15 21:38:46 +0000"
@@ -10842,6 +10884,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2024-10-15 23:25:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-10-15 22:22:01 +0000"
@@ -10851,6 +10905,12 @@
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2024-10-15 20:10:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2024-10-15 23:22:19 +0000"
     },
     "done": true
   },
@@ -10881,6 +10941,12 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-10-15 22:41:47 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
     },
     "done": true
   },
@@ -11088,6 +11154,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
@@ -11142,6 +11214,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_white": {
     "criteria": {
       "has_dyes/black": "2024-10-15 21:45:52 +0000"
@@ -11181,6 +11265,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2024-10-15 20:10:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
     },
     "done": true
   },
@@ -11310,6 +11400,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2024-10-15 20:50:40 +0000"
@@ -11334,6 +11430,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_tile": {
     "criteria": {
       "has_blue_obsidian": "2024-10-15 20:17:59 +0000"
@@ -11346,6 +11448,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2024-10-15 23:25:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2024-10-15 22:41:47 +0000"
@@ -11355,6 +11463,12 @@
   "graveyard:graveyard/corruption": {
     "criteria": {
       "corruption": "2024-10-15 20:28:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
     },
     "done": true
   },
@@ -11373,6 +11487,12 @@
   "zenith:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2024-10-15 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-10-15 23:20:10 +0000"
     },
     "done": true
   },
