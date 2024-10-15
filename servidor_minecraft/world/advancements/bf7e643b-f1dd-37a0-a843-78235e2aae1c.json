@@ -10167,6 +10167,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2024-10-15 22:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-10-15 20:31:28 +0000"
@@ -11197,6 +11203,12 @@
     "criteria": {
       "has_wheat": "2024-10-15 21:49:58 +0000",
       "has_the_recipe": "2024-10-15 21:49:58 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2024-10-15 22:34:52 +0000"
     },
     "done": true
   },

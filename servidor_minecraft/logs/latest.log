@@ -3323,3 +3323,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:50:17] [Server thread/INFO]: luimarofi1 has made the advancement [A Seedy Place]
 [21:54:50] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 825.500000, 109.500000, 44.500000]
 [22:26:59] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 825.500000, 109.500000, 44.500000]
+[22:31:35] [Worker-Main-131/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[22:31:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[22:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[22:33:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3526ms or 70 ticks behind
+[22:33:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[22:34:52] [Server thread/INFO]: luimarofi1 has made the advancement [Hanging Tree]
+[22:36:35] [Worker-Main-145/WARN]: Tried to access a block entity before it was created. class_2338{x=917, y=86, z=-568}
+[22:36:35] [Worker-Main-145/WARN]: Tried to access a block entity before it was created. class_2338{x=917, y=86, z=-568}
+[22:36:41] [pool-11-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains]] from pos class_2338{x=917, y=89, z=-533}
+[22:36:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
