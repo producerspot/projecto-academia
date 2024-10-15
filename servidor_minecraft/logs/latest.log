@@ -2804,3 +2804,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:54:08] [Server thread/INFO]: Updating all forceload tickets for 4b6a985b-539b-317a-ab96-57dfbf3de621
 [21:00:50] [Worker-Main-19/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [21:00:50] [Worker-Main-19/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:05:25] [Server thread/INFO]: luimarofi1 has made the advancement [Sneak 100]
+[21:12:25] [Server thread/INFO]: luimarofi1 was obliterated by a sonically-charged shriek
+[21:12:29] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of luimarofi1 accepted server config.
