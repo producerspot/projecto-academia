@@ -2797,3 +2797,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [20:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6700ms or 134 ticks behind
+[20:54:08] [Server thread/INFO]: rose lost connection: Disconnected
+[20:54:08] [Server thread/INFO]: rose left the game
+[20:54:08] [Server thread/INFO]: remove player wand
+[20:54:08] [Server thread/INFO]: Updating all forceload tickets for 4b6a985b-539b-317a-ab96-57dfbf3de621
+[21:00:50] [Worker-Main-19/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21:00:50] [Worker-Main-19/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
