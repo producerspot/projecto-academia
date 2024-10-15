@@ -10070,6 +10070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2024-10-15 21:08:14 +0000"
@@ -10091,6 +10097,12 @@
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2024-10-15 20:50:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10130,6 +10142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
@@ -10154,9 +10172,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10181,6 +10211,18 @@
   "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
     "criteria": {
       "has_dye": "2024-10-15 20:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10214,6 +10256,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_blue": {
     "criteria": {
       "has_dyes/black": "2024-10-15 20:40:45 +0000"
@@ -10229,6 +10283,18 @@
   "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
     "criteria": {
       "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10265,6 +10331,12 @@
   "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
     "criteria": {
       "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10310,6 +10382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2024-10-15 20:22:24 +0000"
@@ -10328,6 +10406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
@@ -10337,6 +10421,12 @@
   "techreborn:recipes/misc/crafting_table/armor/peridot_helmet": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10352,9 +10442,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10376,9 +10478,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-10-15 21:37:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
     "criteria": {
       "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10418,6 +10532,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-10-15 21:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
@@ -10436,9 +10562,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
     "criteria": {
       "has_peridot_gem": "2024-10-15 20:39:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10472,6 +10610,12 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-10-15 21:37:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2024-10-15 20:17:59 +0000"
@@ -10490,6 +10634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "mythicmounts:summoning_staff": {
     "criteria": {
       "has_pearl": "2024-10-15 20:50:40 +0000"
@@ -10505,6 +10655,12 @@
   "betternether:recipes/building_blocks/cincinnasite_bricks": {
     "criteria": {
       "has_nether_brick": "2024-10-15 20:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10538,9 +10694,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
     "criteria": {
       "has_sapphire_gem": "2024-10-15 20:39:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10562,9 +10730,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_freezing_foil": {
     "criteria": {
       "has_iron_nugget": "2024-10-15 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
@@ -10583,6 +10769,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2024-10-15 20:31:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2024-10-15 21:38:46 +0000"
     },
     "done": true
   },
