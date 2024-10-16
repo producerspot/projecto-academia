@@ -11914,6 +11914,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/bucket_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2024-10-16 02:12:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2024-10-16 01:50:18 +0000"
@@ -12346,6 +12352,12 @@
     },
     "done": true
   },
+  "indrev:cable_mk1": {
+    "criteria": {
+      "checkInv": "2024-10-16 02:14:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-10-16 00:47:37 +0000"
@@ -12385,6 +12397,12 @@
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2024-10-16 00:33:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2024-10-16 02:12:11 +0000"
     },
     "done": true
   },
@@ -12886,6 +12904,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2024-10-16 02:12:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
     "criteria": {
       "has_refined_iron_ingot": "2024-10-16 00:33:09 +0000"
@@ -13027,6 +13051,12 @@
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_copper_ingot": "2024-10-16 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2024-10-16 02:12:11 +0000"
     },
     "done": true
   },
@@ -13276,6 +13306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-10-16 02:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2024-10-16 01:18:30 +0000"
@@ -13387,6 +13423,12 @@
   "stoneworks:recipes/building_blocks/deepslate_paver_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-10-16 01:14:00 +0000"
+    },
+    "done": true
+  },
+  "indrev:coal_generator": {
+    "criteria": {
+      "checkInv": "2024-10-16 02:09:11 +0000"
     },
     "done": true
   },
@@ -13531,6 +13573,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-10-16 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-10-16 02:12:11 +0000"
     },
     "done": true
   },

@@ -897,3 +897,25 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:38:11] [Server thread/INFO]: luimarofi1 has made the advancement [It's Getting Dusty]
 [01:47:50] [Server thread/INFO]: luimarofi1 has made the advancement [Flashy Furnace]
 [01:59:52] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 825.500000, 109.500000, 44.500000]
+[02:03:32] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 677.500000, 153.500000, -180.500000]
+[02:09:11] [Server thread/INFO]: luimarofi1 has made the advancement [First Steps]
+[02:12:18] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 677.500000, 153.500000, -180.500000]
+[02:14:35] [Server thread/INFO]: luimarofi1 has made the advancement [Yellow Cables!]
+[02:17:00] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 677.500000, 153.500000, -180.500000]
+[02:22:02] [Server thread/INFO]: [Handshake] Sending channel query
+[02:22:02] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[02:22:02] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[02:22:02] [Server thread/INFO]: rose[/127.170.147.236:54319] logged in with entity id 65819 at (675.810831633287, 153.0, -178.30000001192093)
+[02:22:02] [Server thread/INFO]: Sending server config values to client
+[02:22:02] [Server thread/INFO]: Syncing config to rose (4b6a985b-539b-317a-ab96-57dfbf3de621)
+[02:22:02] [Server thread/INFO]: Loading config from file...
+[02:22:03] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:22:03] [Server thread/INFO]: rose joined the game
+[02:22:03] [Server thread/INFO]: PLAYER_JOIN
+[02:22:03] [Server thread/INFO]: add_player wand
+[02:22:03] [Server thread/INFO]: config sent
+[02:22:03] [Server thread/INFO]: Updating all forceload tickets for 4b6a985b-539b-317a-ab96-57dfbf3de621
+[02:22:07] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[02:22:16] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: rose -> Global
+[02:22:16] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player rose. Claiming: GRAVE / Robbing: INVENTORY
+[02:22:34] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of rose accepted server config.
