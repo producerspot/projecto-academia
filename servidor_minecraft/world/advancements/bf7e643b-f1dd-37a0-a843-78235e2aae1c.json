@@ -616,7 +616,8 @@
       "infernal_holt": "2024-10-14 20:46:11 +0000",
       "temperate_grove": "2024-10-14 02:30:34 +0000",
       "pine_slopes": "2024-10-15 21:00:10 +0000",
-      "golden_boreal_taiga": "2024-10-14 18:20:09 +0000"
+      "golden_boreal_taiga": "2024-10-14 18:20:09 +0000",
+      "bioshroom_caves": "2024-10-16 02:59:48 +0000"
     },
     "done": false
   },
@@ -5858,6 +5859,7 @@
   "regions_unexplored:spelunker": {
     "criteria": {
       "scorching_caves": "2024-10-14 15:33:52 +0000",
+      "bioshroom_caves": "2024-10-16 02:59:48 +0000",
       "ancient_delta": "2024-10-15 20:40:07 +0000"
     },
     "done": false
@@ -11980,6 +11982,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_chestplate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
@@ -12052,6 +12060,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/bronze_storage_block": {
+    "criteria": {
+      "has_bronze_ingot": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_deepslate_bricks_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-10-16 01:14:00 +0000"
@@ -12097,6 +12111,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-10-16 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/bronze_dust": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
     },
     "done": true
   },
@@ -12652,6 +12672,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_leggings": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-10-16 00:47:37 +0000"
@@ -12868,6 +12894,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_axe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-10-16 01:16:12 +0000"
@@ -12922,6 +12954,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_hoe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/shadow_berry_jelly": {
     "criteria": {
       "has_tag_c_water_bottles": "2024-10-16 02:12:11 +0000"
@@ -12958,6 +12996,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/bronze_nugget": {
+    "criteria": {
+      "has_bronze_ingot": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-10-16 01:14:00 +0000"
@@ -12991,6 +13035,12 @@
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2024-10-16 00:47:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/wrench": {
+    "criteria": {
+      "has_bronze_ingot": "2024-10-16 02:54:18 +0000"
     },
     "done": true
   },
@@ -13084,6 +13134,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_helmet": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-10-16 01:14:41 +0000"
@@ -13105,6 +13161,12 @@
   "stoneworks:recipes/building_blocks/deepslate_paver_slab_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-10-16 01:14:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_pickaxe": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
     },
     "done": true
   },
@@ -13165,6 +13227,12 @@
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-10-16 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_sword": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
     },
     "done": true
   },
@@ -13282,6 +13350,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_bronze_ingot": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-10-16 01:18:30 +0000"
@@ -13360,6 +13434,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/ingot/mixed_metal_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/raw_gold": {
     "criteria": {
       "has_tag_c_gold_ores": "2024-10-16 00:06:05 +0000"
@@ -13381,6 +13461,12 @@
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2024-10-16 00:47:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/bronze_boots": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
     },
     "done": true
   },
@@ -13504,6 +13590,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/bronze_plate": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
@@ -13597,6 +13689,12 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-10-16 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/bronze_spade": {
+    "criteria": {
+      "has_tag_c_bronze_ingots": "2024-10-16 02:54:18 +0000"
     },
     "done": true
   },
