@@ -455,3 +455,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
 [00:05:13] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: rose -> Global
 [00:05:13] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player rose. Claiming: GRAVE / Robbing: INVENTORY
+[00:05:20] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of rose accepted server config.
+[00:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3685ms or 73 ticks behind
+[00:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[00:09:33] [Server thread/INFO]: rose was slain by Revenant
+[00:09:37] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of rose accepted server config.
+[00:09:51] [Server thread/INFO]: [luimarofi1: Teleported rose to luimarofi1]
+[00:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
