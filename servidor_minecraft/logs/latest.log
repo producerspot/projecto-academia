@@ -472,3 +472,14 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [00:37:13] [Server thread/INFO]: Villager class_1646['Karine'/51674, l='ServerLevel[world]', x=857.37, y=23.00, z=111.33] died, message: 'Karine was slain by Zombie'
 [00:37:13] [Server thread/INFO]: Named entity class_1646['Karine'/51674, l='ServerLevel[world]', x=857.37, y=23.00, z=111.33] died: Karine was slain by Zombie
 [00:37:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3984ms or 79 ticks behind
+[00:39:40] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to rose]
+[00:40:07] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 853.500000, -0.500000, -80.500000]
+[00:40:21] [Server thread/INFO]: luimarofi1 has made the advancement [The Beginning]
+[00:40:51] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 677.500000, 153.500000, -180.500000]
+[00:41:50] [Server thread/INFO]: [luimarofi1: Set rose's game mode to Survival Mode]
+[00:42:55] [Server thread/INFO]: [luimarofi1: Teleported rose to luimarofi1]
+[00:45:55] [Server thread/INFO]: rose lost connection: Disconnected
+[00:45:55] [Server thread/INFO]: rose left the game
+[00:45:55] [Server thread/INFO]: remove player wand
+[00:45:55] [Server thread/INFO]: Updating all forceload tickets for 4b6a985b-539b-317a-ab96-57dfbf3de621

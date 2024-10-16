@@ -11896,6 +11896,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2024-10-16 00:30:05 +0000"
@@ -11950,6 +11962,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/water_coolant_cell_10k": {
+    "criteria": {
+      "has_tin_ingot": "2024-10-16 00:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2024-10-16 00:27:45 +0000"
@@ -11974,9 +11992,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2024-10-16 00:33:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/tin_plate": {
+    "criteria": {
+      "has_tag_c_tin_ingots": "2024-10-16 00:41:42 +0000"
     },
     "done": true
   },
@@ -11986,15 +12016,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
     "criteria": {
       "has_planks": "2024-10-16 00:30:05 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
+    "criteria": {
+      "has_tin_ingot": "2024-10-16 00:41:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/electronic_circuit": {
     "criteria": {
       "has_refined_iron_ingot": "2024-10-16 00:33:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/neutron_reflector": {
+    "criteria": {
+      "has_tin_plate": "2024-10-16 00:42:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
     },
     "done": true
   },
@@ -12022,9 +12082,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
     "criteria": {
       "has_refined_iron_ingot": "2024-10-16 00:33:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2024-10-16 00:41:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
     },
     "done": true
   },
@@ -12040,6 +12124,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_button": {
     "criteria": {
       "has_pine_planks": "2024-10-16 00:30:05 +0000"
@@ -12049,6 +12139,18 @@
   "regions_unexplored:recipes/redstone/pine_door": {
     "criteria": {
       "has_pine_planks": "2024-10-16 00:30:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2024-10-16 00:41:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
     },
     "done": true
   },
@@ -12067,6 +12169,30 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2024-10-16 00:06:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
+    "criteria": {
+      "has_tin_ingot": "2024-10-16 00:41:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2024-10-16 00:40:21 +0000"
     },
     "done": true
   },
@@ -12094,9 +12220,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
     "criteria": {
       "has_refined_iron": "2024-10-16 00:33:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/larch_sapling_from_larch_shrub": {
+    "criteria": {
+      "has_larch_shrub": "2024-10-16 00:36:26 +0000"
     },
     "done": true
   },
@@ -12112,6 +12250,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2024-10-16 00:41:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/pine_slab": {
     "criteria": {
       "has_pine_planks": "2024-10-16 00:30:05 +0000"
@@ -12124,15 +12280,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_from_diamond_ore_with_water": {
     "criteria": {
       "has_tag_c_diamond_ores": "2024-10-16 00:27:45 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_sodium_persulfate": {
     "criteria": {
       "has_tag_minecraft_gold_ores": "2024-10-16 00:06:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
     },
     "done": true
   },
