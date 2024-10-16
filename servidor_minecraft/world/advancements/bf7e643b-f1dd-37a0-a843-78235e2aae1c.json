@@ -11914,6 +11914,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2024-10-16 01:50:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/pine_fence_gate": {
     "criteria": {
       "has_pine_planks": "2024-10-16 00:30:05 +0000"
@@ -11932,9 +11938,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2024-10-16 01:47:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2024-10-16 01:50:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-10-16 01:50:18 +0000"
     },
     "done": true
   },
@@ -12016,6 +12040,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/electric_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2024-10-16 01:47:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_deepslate_bricks_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-10-16 01:14:00 +0000"
@@ -12073,6 +12103,12 @@
   "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
       "has_refined_iron_ingot": "2024-10-16 00:33:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2024-10-16 01:50:11 +0000"
     },
     "done": true
   },
@@ -12172,6 +12208,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2024-10-16 01:50:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2024-10-16 01:50:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-10-16 00:47:37 +0000"
@@ -12199,6 +12247,12 @@
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-10-16 01:14:00 +0000"
+    },
+    "done": true
+  },
+  "indrev:pulverizer": {
+    "criteria": {
+      "checkInv": "2024-10-16 01:38:11 +0000"
     },
     "done": true
   },
@@ -12340,6 +12394,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2024-10-16 01:50:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/tin_plate": {
     "criteria": {
       "has_tag_c_tin_ingots": "2024-10-16 00:41:42 +0000"
@@ -12364,9 +12424,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/tungsten_grinding_head": {
+    "criteria": {
+      "has_steel_block": "2024-10-16 01:50:23 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/teleportation_robe_chestplate": {
     "criteria": {
       "has_copper_ingot": "2024-10-16 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-10-16 01:50:18 +0000"
     },
     "done": true
   },
@@ -12454,6 +12526,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2024-10-16 01:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-10-16 01:16:12 +0000"
@@ -12505,6 +12583,12 @@
   "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2024-10-16 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2024-10-16 01:50:23 +0000"
     },
     "done": true
   },
@@ -12568,6 +12652,12 @@
     },
     "done": true
   },
+  "techreborn:ironfurnace": {
+    "criteria": {
+      "crit_0": "2024-10-16 01:47:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/deepslate_plate_stairs_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-10-16 01:14:00 +0000"
@@ -12577,6 +12667,12 @@
   "techreborn:recipes/misc/blasting/refined_iron_plate_from_c_iron_plates": {
     "criteria": {
       "has_tag_c_iron_plates": "2024-10-16 01:24:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2024-10-16 01:50:23 +0000"
     },
     "done": true
   },
@@ -12673,6 +12769,12 @@
   "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2024-10-16 01:50:23 +0000"
     },
     "done": true
   },
@@ -12853,6 +12955,12 @@
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2024-10-16 00:47:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2024-10-16 01:50:23 +0000"
     },
     "done": true
   },
@@ -13114,6 +13222,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2024-10-16 01:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-10-16 01:18:30 +0000"
@@ -13213,6 +13327,12 @@
   "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "indrev:machine_block": {
+    "criteria": {
+      "checkInv": "2024-10-16 01:34:08 +0000"
     },
     "done": true
   },
