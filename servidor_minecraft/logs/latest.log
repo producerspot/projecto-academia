@@ -1562,3 +1562,23 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
 [03:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
 [03:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4482ms or 89 ticks behind
+[03:17:52] [Worker-Main-146/WARN]: Tried to access a block entity before it was created. class_2338{x=761, y=112, z=-1241}
+[03:17:52] [Worker-Main-146/WARN]: Tried to access a block entity before it was created. class_2338{x=761, y=112, z=-1241}
+[03:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7600ms or 152 ticks behind
+[03:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11672ms or 233 ticks behind
+[03:18:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4866ms or 97 ticks behind
+[03:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12019ms or 240 ticks behind
+[03:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9829ms or 196 ticks behind
+[03:19:51] [Worker-Main-145/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[03:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[03:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03:20:52] [Server thread/INFO]: luimarofi1 has made the advancement [It's Chargin' Time !]
+[03:21:05] [Server thread/INFO]: Assigning ME player id 0 to Minecraft profile bf7e643b-f1dd-37a0-a843-78235e2aae1c (luimarofi1)
+[03:21:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[03:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03:22:43] [Server thread/INFO]: rose hit the ground too hard
+[03:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6911ms or 138 ticks behind
+[03:22:50] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of rose accepted server config.
+[03:27:53] [Server thread/INFO]: rose has made the advancement [A... Fake?]
+[03:28:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
