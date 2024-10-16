@@ -919,3 +919,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:22:16] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: rose -> Global
 [02:22:16] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player rose. Claiming: GRAVE / Robbing: INVENTORY
 [02:22:34] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of rose accepted server config.
+[02:25:03] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 853.500000, -0.500000, -80.500000]
+[02:27:09] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 677.500000, 153.500000, -180.500000]
+[02:28:26] [Server thread/INFO]: rose has made the advancement [Cover Me with Diamonds]
+[02:32:58] [Server thread/INFO]: <rose> usted comohizo eseescudo
+[02:33:05] [Server thread/INFO]: <luimarofi1> en una mazmorra
+[02:33:08] [Server thread/INFO]: <luimarofi1> se consigue
+[02:33:45] [Server thread/INFO]: <rose> y la mochila
