@@ -12394,6 +12394,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/bronze_ingot_from_c_bronze_dusts": {
+    "criteria": {
+      "has_tag_c_bronze_dusts": "2024-10-16 02:50:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/hv_cable": {
     "criteria": {
       "has_refined_iron_ingot": "2024-10-16 00:33:09 +0000"
@@ -12706,6 +12712,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/bronze_ingot_from_c_bronze_dusts": {
+    "criteria": {
+      "has_tag_c_bronze_dusts": "2024-10-16 02:50:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2024-10-16 00:47:37 +0000"
@@ -12886,6 +12898,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/bronze_dust": {
+    "criteria": {
+      "has_bronze_dust": "2024-10-16 02:50:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-10-16 01:24:27 +0000"
@@ -12955,6 +12973,12 @@
   "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-10-16 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "indrev:solid_infuser": {
+    "criteria": {
+      "checkInv": "2024-10-16 02:44:58 +0000"
     },
     "done": true
   },
