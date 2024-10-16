@@ -12888,6 +12888,12 @@
     },
     "done": true
   },
+  "indrev:compressor": {
+    "criteria": {
+      "checkInv": "2024-10-16 03:05:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/deepslate_shingle_wall_from_deepslate_stonecutting": {
     "criteria": {
       "has_deepslate": "2024-10-16 01:14:00 +0000"
