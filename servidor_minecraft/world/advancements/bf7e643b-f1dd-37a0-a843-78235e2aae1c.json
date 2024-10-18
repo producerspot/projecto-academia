@@ -13806,5 +13806,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-10-18 23:06:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

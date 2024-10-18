@@ -2682,3 +2682,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[23:02:50] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 677.500000, 153.500000, -180.500000]
+[23:04:02] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 1012.500000, 101.500000, -635.500000]
+[23:04:22] [Server thread/INFO]: Villager class_1646['Harland'/1263, l='ServerLevel[world]', x=945.30, y=66.00, z=-572.60] died, message: 'Harland was slain by Zombie'
+[23:04:22] [Server thread/INFO]: Named entity class_1646['Harland'/1263, l='ServerLevel[world]', x=945.30, y=66.00, z=-572.60] died: Harland was slain by Zombie
+[23:04:30] [Server thread/INFO]: Villager class_1646['Remedios'/1282, l='ServerLevel[world]', x=945.52, y=63.00, z=-586.70] died, message: 'Remedios was slain by Zombie'
+[23:04:30] [Server thread/INFO]: Named entity class_1646['Remedios'/1282, l='ServerLevel[world]', x=945.52, y=63.00, z=-586.70] died: Remedios was slain by Zombie
+[23:04:36] [Server thread/INFO]: [luimarofi1: Teleported luimarofi1 to 1037.500000, 95.500000, -488.500000]
+[23:06:31] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[23:06:33] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
